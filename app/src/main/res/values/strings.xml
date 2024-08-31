@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="txtEvidence">Evidencia de aprendizaje 1 – Taller Interfaz de Usuario</string>
+    <string name="txtBuild">App en construcción</string>
+    <string name="txtCreatedBy">Creado por Johan Alexis Holguín - IU Digital 2024</string>
+    <string name="txtIniSesion">Iniciar Sesión</string>
+    <string name="txtEmail">Correo Electrónico</string>
+    <string name="txtPassword">Contraseña</string>
+    <string name="txtCreateAcc">¿No tienes una cuenta?</string>
+    <string name="txtRegister">Regístrate</string>
+</resources>
